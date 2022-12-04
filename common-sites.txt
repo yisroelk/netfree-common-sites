@@ -23,7 +23,7 @@
 	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
 
 	משרד המשפטים
-	http://index.justice.gov.il/
+	http://justice.gov.il/
 	http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
 
 	משרד התחבורה
